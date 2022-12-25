@@ -26,28 +26,23 @@ SAME PROCEDURE FOR WINDOWS , TERMUX , LINUX . JUST INSTALL PYTHON3
 
 ## LINUX AND  TERMUX
 ```js
-apt install python && python3```
-```js
-pip install requests```
-```js
-pip install pycryptodome```
-```js
-apt install git```
-```js
-git clone https://github.com/DEADSECURITY-INDIA/BIN-SCRAPPER-AND-CHECKER```
-```js
-cd **BIN-SCRAPPER-AND-CHECKER**```
-```js
-python3 **darky.py** ```
+apt install python && python3
+```
+```jspip install requests```
+```jspip install pycryptodome```
+```jsapt install git```
+```jsgit clone https://github.com/DEADSECURITY-INDIA/BIN-SCRAPPER-AND-CHECKER```
+```jscd **BIN-SCRAPPER-AND-CHECKER**```
+```jspython3 **darky.py** ```
 
 ## WINDOWS
-```DOWNLOAD THE ZIP FILE```
-```EXTRACT IT```
-```GO TO THE FILE LOCATION OF **darky.py** ```
-```NOW OPEN CMD``` 
-```pip install requests```
-```pip install pycrpytodome```
-```python3 darky.py```
+```jsDOWNLOAD THE ZIP FILE```
+```jsEXTRACT IT```
+```jsGO TO THE FILE LOCATION OF **darky.py** ```
+```jsNOW OPEN CMD``` 
+```jspip install requests```
+```jspip install pycrpytodome```
+```jspython3 darky.py```
 
 # License
 
