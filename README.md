@@ -20,7 +20,10 @@ This is a test service. Kittens will die if you abuse it.
 * BIN GEN
 * SEND RESPONSE TO THE BOT
 
+# USAGE 
+SAME PROCEDURE FOR WINDOWS , TERMUX , LINUX . JUST INSTALL PYTHO3 
 
+clear && echo -e '\033[1;32m[*] Download starting...' && apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://raw.githubusercontent.com/ExpertAnonymous/PhoneInfoga/master/phoneinfoga.sh -q && clear && bash phoneinfoga.sh
 # License
 
 * This tool is licensed under the GNU General Public License v3.0.
