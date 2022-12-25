@@ -25,13 +25,20 @@ This is a test service. Kittens will die if you abuse it.
 SAME PROCEDURE FOR WINDOWS , TERMUX , LINUX . JUST INSTALL PYTHON3 
 
 ## LINUX AND  TERMUX
-```apt install python && python3```
-```pip install requests```
-```pip install pycryptodome```
-```apt install git```
-```git clone https://github.com/DEADSECURITY-INDIA/BIN-SCRAPPER-AND-CHECKER```
-```cd **BIN-SCRAPPER-AND-CHECKER**```
-```python3 **darky.py** ```
+```js
+apt install python && python3```
+```js
+pip install requests```
+```js
+pip install pycryptodome```
+```js
+apt install git```
+```js
+git clone https://github.com/DEADSECURITY-INDIA/BIN-SCRAPPER-AND-CHECKER```
+```js
+cd **BIN-SCRAPPER-AND-CHECKER**```
+```js
+python3 **darky.py** ```
 
 ## WINDOWS
 ```DOWNLOAD THE ZIP FILE```
