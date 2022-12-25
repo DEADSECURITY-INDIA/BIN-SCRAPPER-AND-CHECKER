@@ -46,21 +46,41 @@ git clone https://github.com/DEADSECURITY-INDIA/BIN-SCRAPPER-AND-CHECKER
 ```
 
 ```js
-cd **BIN-SCRAPPER-AND-CHECKER**
+cd BIN-SCRAPPER-AND-CHECKER
 ```
 
 ```js
-jspython3 **darky.py** 
+jspython3 darky.py
 ```
 
 ## WINDOWS
-```jsDOWNLOAD THE ZIP FILE```
-```jsEXTRACT IT```
-```jsGO TO THE FILE LOCATION OF **darky.py** ```
-```jsNOW OPEN CMD``` 
-```jspip install requests```
-```jspip install pycrpytodome```
-```jspython3 darky.py```
+```js 
+DOWNLOAD THE ZIP FILE
+```
+
+```js
+EXTRACT IT
+```
+
+```js
+GO TO THE FILE LOCATION OF darky.py
+```
+
+```js
+NOW OPEN CMD
+``` 
+
+```js
+pip install requests
+```
+
+```js
+pip install pycrpytodome
+```
+
+```js
+python3 darky.p
+y```
 
 # License
 
