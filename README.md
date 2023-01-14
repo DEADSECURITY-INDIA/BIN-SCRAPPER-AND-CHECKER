@@ -38,10 +38,6 @@ pip install requests
 ```
 
 ```js
-pip install pycryptodome
-```
-
-```js
 apt install git
 ```
 
@@ -54,7 +50,7 @@ cd BIN-SCRAPPER-AND-CHECKER
 ```
 
 ```js
-jspython3 darky.py
+python3 darky.py
 ```
 
 ## WINDOWS
@@ -79,10 +75,6 @@ pip install requests
 ```
 
 ```js
-pip install pycrpytodome
-```
-
-```js
 python3 darky.py
 ```
 
@@ -92,5 +84,5 @@ python3 darky.py
 
 ## Support
 
-* TELEGRAM : https://t.me/DEADSECURITY_IND
+* TELEGRAM CHANNEL : https://t.me/DEADSECURITY_IND
 * DEVELOPER : https://t.me/deadsec0_0darky
